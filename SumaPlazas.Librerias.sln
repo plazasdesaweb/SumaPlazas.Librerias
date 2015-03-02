@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaPlazas.Librerias.Escaner", "SumaPlazas.Librerias.Escaner\SumaPlazas.Librerias.Escaner.csproj", "{34F7DA77-6EA6-43FB-95F6-D3D91B3A8141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaPlazas.Librerias.PinPad", "SumaPlazas.Librerias.PinPad\SumaPlazas.Librerias.PinPad.csproj", "{929A1603-32E6-4132-BAD8-C5FC6F45883B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaPlazas.Librerias.Impresora.CP60", "SumaPlazas.Librerias.Impresora.CP60\SumaPlazas.Librerias.Impresora.CP60.csproj", "{B1263189-E2DF-4148-9A52-1E6C4CF4A4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaPlazas.Librerias.Impresora.CD800", "SumaPlazas.Librerias.Impresora.CD800\SumaPlazas.Librerias.Impresora.CD800.csproj", "{56F6F93A-E072-4A78-AAB1-CAB27A608709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F7DA77-6EA6-43FB-95F6-D3D91B3A8141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F7DA77-6EA6-43FB-95F6-D3D91B3A8141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F7DA77-6EA6-43FB-95F6-D3D91B3A8141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F7DA77-6EA6-43FB-95F6-D3D91B3A8141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929A1603-32E6-4132-BAD8-C5FC6F45883B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929A1603-32E6-4132-BAD8-C5FC6F45883B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929A1603-32E6-4132-BAD8-C5FC6F45883B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929A1603-32E6-4132-BAD8-C5FC6F45883B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1263189-E2DF-4148-9A52-1E6C4CF4A4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1263189-E2DF-4148-9A52-1E6C4CF4A4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1263189-E2DF-4148-9A52-1E6C4CF4A4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1263189-E2DF-4148-9A52-1E6C4CF4A4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F6F93A-E072-4A78-AAB1-CAB27A608709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F6F93A-E072-4A78-AAB1-CAB27A608709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F6F93A-E072-4A78-AAB1-CAB27A608709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F6F93A-E072-4A78-AAB1-CAB27A608709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
