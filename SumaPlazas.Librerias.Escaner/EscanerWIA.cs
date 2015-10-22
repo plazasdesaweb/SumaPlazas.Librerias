@@ -80,14 +80,14 @@ namespace SumaPlazas.Librerias.Escaner
                 }
                 else
                 {
-                    return "";
+                    return ("Error de Automatización: No se pudo crear WIA.CommonDialog");
                 }
             }
-            //catch (Exception ex)
-            catch
+            catch (Exception ex)
+            //catch
             {
-                //MessageBox.Show("Error de aplicación: " + ex.Message);
-                return "";
+                return("Error de Aplicación: " + ex.Message);
+                //return "";
             }
         }
 

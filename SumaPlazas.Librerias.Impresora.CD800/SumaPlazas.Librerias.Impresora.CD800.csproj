@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SumaPlazas.Librerias.Impresora.CD800</RootNamespace>
-    <AssemblyName>SumaPlazas.Librerias.Impresoras.CD800</AssemblyName>
+    <AssemblyName>SumaPlazas.Librerias.Impresora.CD800</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
